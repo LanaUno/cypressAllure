@@ -6,6 +6,6 @@ describe('My Account Functionality', () => {
         //loginPage.launchApplication()
     })
     it('Sample Test', () => {
-        console.log("This is a sample test")
+        // console.log("This is a sample test")
     })
 })
